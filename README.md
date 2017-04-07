@@ -21,6 +21,8 @@
 * [VS Code]()
 * [Cursive]()
 * [Emacs]()
+* [Vim]()
+* [Atom]()
 
 ### Leiningen
 
@@ -56,3 +58,16 @@
 ## 슬라이드
 
 ## Best Practices
+
+
+## Clojure를 사용하는 기업들
+* [Amazon]()
+* [Atlassian]()
+* [Ebay]()
+* [Facebook]()
+* [Puppet Labs]()
+* [Salesforce]()
+* [Soundcloud]()
+* [Spotify]()
+* [Thought Works]()
+* [Walmart Labs]()
