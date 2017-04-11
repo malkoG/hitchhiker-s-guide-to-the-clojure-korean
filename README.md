@@ -18,40 +18,60 @@
 ## 개발환경, 툴
 
 ### 편집기
-* [VS Code]()
-* [Cursive]()
-* [Emacs]()
-* [Vim]()
-* [Atom]()
+* [VS Code](https://code.visualstudio.com/)
+* [Cursive](https://cursive-ide.com/)
+* [Emacs](https://www.gnu.org/software/emacs/)
+* [Vim](http://www.vim.org/)
+* [Atom](https://atom.io/)
 
 ### Leiningen
 
 ## 라이브러리
 
 ### Data Analysis
+* 
+
+### Web Scraping
+* [enlive](https://github.com/cgrand/enlive) : Python의 beautiful-soup처럼 HTML 의 특정 id, class에 해당되는 문서의 내용을 추출하는데 쓰이는 라이브러리 입니다.
 
 ### Web Framework
-* [Luminus]()
+* [Luminus](http://www.luminusweb.net/)
 
 ### Documentation
-* [codox]()
+* [codox](https://github.com/weavejester/codox)
   * 함수의 description에 작성한 내용을 토대로 HTML 포맷으로 문서를 생성해줍니다.
   * Markdown 포맷으로 문서를 작성할 수도 있습니다.
 
 ### Database
-* [Toucan]() : Clojure용 ORM
-* [HoneySQL]()
-
+* [Toucan](https://github.com/metabase/toucan) : Clojure용 ORM
+* [HoneySQL](https://github.com/jkk/honeysql)
+* [ragtime](https://github.com/weavejester/ragtime) : DB Migration 
 
 
 ## 책
+
+### 국내에 출판된 책들
 * [Brave Clojure]()
+  * 웹상에서도 무료로 볼 수 있습니다. [Web Version](http://www.braveclojure.com/introduction/)
 * [Living Clojure]()
+* [Joy of Clojure]() : 어느 정도 Clojure 프로그래밍 경험을 쌓고 나서 보는 것을 추천합니다.
+
+### 해외에 출판된 책들
+* [Data Analysis with Clojure]()
+* [Web Development with Clojure]() : Luminus를 이용해서 웹개발하는 방법을 소개합니다.
 
 ## 웹사이트
 * [Clojure Docs]() : Clojure의 Core 라이브러리에 정의된 함수에 대한 친절한 문서와 예제들이 있습니다. 커뮤니티가 주도해서 문서화하는 것이기 때문에, 여러분도 문서화에 참여할 수 있습니다.
 
+### 문제풀이 사이트
+* [Project Euler]() : 수학문제 풀이 중심입니다.
+* [4clojure]() 
+* [Codewars]()
+* [Exercism]()
+
 ## 아티클
+* [Clojure Design Pattern](http://clojure.or.kr/docs/clojure-and-gof-design-patterns.html) : Java와 비교했을 때, Clojure를 이용한 함수형 프로그래밍이 얼마나 강력한지 소개하는 글입니다. 
+  * [원문보기]()
 
 ## 동영상
 
