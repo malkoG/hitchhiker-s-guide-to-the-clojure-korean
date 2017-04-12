@@ -50,6 +50,12 @@ TODO
 # 참고자료
 ## 라이브러리
 
+### Mathematics
+* [cats](https://github.com/funcool/cats) : 카테고리 이론을 이용한 FP 구현체입니다.
+
+### Cryptography
+* [buddy](https://github.com/funcool/buddy) : Luminus에서 쓰이는 보안 모듈입니다.
+
 ### Data Analysis
 * [neanderthal](https://github.com/uncomplicate/neanderthal) : 행렬 연산에 쓰이는 라이브러리입니다.
 * [gorilla-repl](https://github.com/JonyEpsilon/gorilla-repl) : Python의 Jupyter notebook처럼 입력에 따른 결과를 시각화시켜서 표시해주는 프레임워크입니다.
@@ -85,6 +91,8 @@ TODO
 * [chazel](https://github.com/tolitius/chazel) : Hazelcast 클라이언트입니다.
 * [langohr](https://github.com/michaelklishin/langohr) : RabbitMQ 클라이언트입니다.
 * [carmine](https://github.com/ptaoussanis/carmine) : Redis 클라이언트입니다.
+
+### API
 * [graphql-clj](https://github.com/tendant/graphql-clj) : GraphQL 구현체 입니다.
 
 ## 책
