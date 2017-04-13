@@ -15,7 +15,7 @@ TODO
 
 ## Clojure 커뮤니티 참여하기
 Clojure 커뮤니티에 참여하는 것만으로도 충분히 도움이 됩니다! 다른 개발자 분들과의 인맥을 쌓을수도 있고, 알지 못했던 정보를 알아가기도 하겠죠. 여러분의 조그마한 기여가 저희 Clojure 커뮤니티에 큰 도움이 될 수도 있어요!
-* [Clojure Korea Slack](https://clojure-korea.slack.com/)
+* **Clojure Korea Slack** [초대장 받기](https://clojure-korea-invitation.herokuapp.com/)
 * [Clojure Korea Facebook](https://www.facebook.com/groups/defnclojure/)
 
 ### 유명 개발자들 팔로우하기
