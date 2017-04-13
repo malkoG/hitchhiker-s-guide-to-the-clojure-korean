@@ -60,6 +60,10 @@ TODO
 * [neanderthal](https://github.com/uncomplicate/neanderthal) : 행렬 연산에 쓰이는 라이브러리입니다.
 * [gorilla-repl](https://github.com/JonyEpsilon/gorilla-repl) : Python의 Jupyter notebook처럼 입력에 따른 결과를 시각화시켜서 표시해주는 프레임워크입니다.
 
+#### Natural Language Processing
+* [postagga](https://github.com/fekr/postagga) : 자연어 처리 라이브러리 입니다.
+
+
 ### Web Scraping
 * [enlive](https://github.com/cgrand/enlive) : Python의 beautiful-soup처럼 HTML 의 특정 id, class에 해당되는 문서의 내용을 추출하는데 쓰이는 라이브러리 입니다.
 
@@ -68,6 +72,9 @@ TODO
 #### Web Framework
 * [arachne](http://arachne-framework.org/) : Clojure로 짜인 MVC 웹프레임워크입니다. 
 * [Luminus](http://www.luminusweb.net/) : Clojure로 짜인 마이크로 웹프레임워크 입니다.
+
+#### Template engine
+* [Selmer](https://github.com/yogthos/Selmer) : Django에서 영감을 얻어서 만들어진 템플릿 엔진입니다.
 
 #### Clojure Script : Clojure와 같은 문법으로 작성하는 프로그래밍 언어이며, 자바스크립트로 트랜스파일됩니다.
 * [re-frame](https://github.com/reagent-project/reagent) : Clojure Script로 React 컴포넌트를 사용할 수 있습니다.
@@ -82,7 +89,11 @@ TODO
 ### Database
 * [Toucan](https://github.com/metabase/toucan) : Clojure용 ORM
 * [HoneySQL](https://github.com/jkk/honeysql)
-* [ragtime](https://github.com/weavejester/ragtime) : DB Migration 
+* [Monger](https://github.com/michaelklishin/monger) : Mongo DB Client입니다
+
+#### Database Migration
+* [ragtime](https://github.com/weavejester/ragtime)
+* [migratus](https://github.com/yogthos/migratus) : Luminus 공식 문서에서 권정하는 라이브러리입니다.
 
 ### Environment
 * [environ](https://github.com/weavejester/environ) : 환경변수를 관리할때 쓰이는 라이브러리입니다.
@@ -94,6 +105,10 @@ TODO
 
 ### API
 * [graphql-clj](https://github.com/tendant/graphql-clj) : GraphQL 구현체 입니다.
+
+### For fun
+* [yetibot](https://github.com/devth/yetibot) : 챗봇 라이브러리 입니다.
+
 
 ## 책
 
