@@ -39,10 +39,14 @@ Twitter는 개발자들이 많이 이용하는 SNS 중 하나입니다. 라이�
 
 ### 편집기
 * [VS Code](https://code.visualstudio.com/)
+  * [단축키](./Editor/VSCode/Shortcuts.md)
+  * [플러그인 목록](./Editor/VSCode/Plugins.md)
 * [Cursive](https://cursive-ide.com/)
 * [Emacs](https://www.gnu.org/software/emacs/)
 * [Vim](http://www.vim.org/)
 * [Atom](https://atom.io/)
+  * [단축키](./Editor/Atom/Shortcuts.md)
+  * [플러그인 목록](./Editor/Atom/Plugins.md)
 
 ### Leiningen
 TODO
