@@ -11,7 +11,14 @@
 TODO
 
 ## 분야별로 입문하기
+
 TODO
+
+### 기초
+* 정재훈님의 유튜브 강좌
+  * [Chapter 01 - Cursive 설치하기](https://youtu.be/ePzC0J1ch-g)
+  * [Chapter 02 - Cursive에서 REPL 사용하기](https://youtu.be/KKMwmTp0m6c)
+  * [Chapter 03 - 클로져의 유일한 문법 규칙](https://youtu.be/vMC46JvMl7s)
 
 ## Clojure 커뮤니티 참여하기
 Clojure 커뮤니티에 참여하는 것만으로도 충분히 도움이 됩니다! 다른 개발자 분들과의 인맥을 쌓을수도 있고, 알지 못했던 정보를 알아가기도 하겠죠. 여러분의 조그마한 기여가 저희 Clojure 커뮤니티에 큰 도움이 될 수도 있어요!
